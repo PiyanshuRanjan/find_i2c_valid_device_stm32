@@ -1,0 +1,2 @@
+# find_i2c_valid_device_stm32
+find_i2c_valid_device_stm32
